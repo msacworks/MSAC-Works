@@ -17,7 +17,7 @@ Our mission is simple: **"Your Comfort is Our Priority."**
 
 ## 🚀 Installation
 ### For Android:
-1. Download the latest **APK** from [https://freewebsitetoapp.cloudserverbox.com/app-data/free-apps/16897475114/0Js7urSPMZ/app-debug.apk](https://github.com/msacworks/MSAC-Works/blob/main/msac%20works.apk)
+1. Download the latest **APK** from https://github.com/msacworks/MSAC-Works/releases/download/New/msac.works.apk
 2. Install the APK on your Android device.
 3. Open the app and start using MS AC Works! 🎉
 
